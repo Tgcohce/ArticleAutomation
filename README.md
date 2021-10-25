@@ -9,13 +9,13 @@ The input and the data are CASE SENSITIVE If there is something wrong with the d
 
 There are 3 scripts
 
-Article Cmp
+# Article Cmp
 Where most variables are declared, compared, assigned this is done to make modifying the script easier in future
 
-Article Inp
+# Article Inp
 takes input -> the FSNA and FSNB
 
-Article Wr
+# Article Wr
 Is the file that adds content and saves the docx file
 
 This script won't work without Pandas module and Docx module
